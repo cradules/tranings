@@ -99,6 +99,11 @@ body {
     margin-bottom: 10px;
 }
 
+.stat__number--limit {
+    color: #ea0809;
+
+}
+
 .second-heading {
     font-size: 14px;
     text-transform: uppercase;
